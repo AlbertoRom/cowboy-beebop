@@ -1,0 +1,146 @@
+$backgroundColor: black;
+$fontColor: white;
+$hoverColor: #eebd12;
+$borderRadius: 4px;
+$fontFamily: 'Quicksand';
+$textDecoration: none;
+
+.frontpage{
+  margin: 0;
+  margin-top: 0%;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: $backgroundColor;
+  font-family: $fontFamily;
+}
+
+.frontpage main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 10px;
+  background-color: $backgroundColor;
+  text-align: center;
+}
+
+.frontpage p {
+  font-size: 200%;
+}
+
+.frontpage a {
+  color: $fontColor;
+  text-decoration: $textDecoration;
+  transition: color 0.3s ease;
+}
+
+.frontpage a:hover {
+  color: $hoverColor; 
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: $fontColor;
+  font-family: $fontFamily;
+}
+
+header{
+  display: flex;
+  justify-content: space-between;
+  background-color: $backgroundColor;
+  align-items: center;
+  padding: 10px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: $backgroundColor;
+  padding: 10px;
+}
+
+nav a {
+  color: $fontColor;
+  text-decoration: $textDecoration;
+  padding: 8px;
+}
+
+nav li {
+  list-style-type: none;
+}
+
+nav li a {
+  text-decoration: $textDecoration;
+  color: $fontColor;
+  font-size: 16px;
+  transition: color 0.3s ease;
+}
+
+nav li a:hover {
+  color: $hoverColor; 
+}
+
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: $fontColor;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  header{
+    flex-direction: column;
+  }
+
+  iframe {
+    width: 80%;
+    height: 315px
+  }
+
+  img {
+    width: 80%;
+  }
+}
+
+header img{
+  width: 73px;
+  height: 70px;
+}
+
+main img{
+  border-radius: $borderRadius;
+}
+
+footer {
+  background-color: $backgroundColor;
+  color: $fontColor;
+  text-align: center;
+  padding: 15px;
+  margin-top: auto;
+}
+
+button {
+  background-color: $backgroundColor;
+  color: $fontColor; 
+  border: none; 
+  padding: 12px 24px; 
+  font-size: 16px;
+  border-radius: $borderRadius;
+  cursor: pointer;
+}
+
+button a {
+  text-decoration: $textDecoration;
+  color: $fontColor;
+}
+
+.actors-nav{
+  font-size: 20px;
+}
+
+.actors-nav a{
+  text-decoration: $textDecoration;
+  color: $backgroundColor;
+  padding: 10px;
+}
