@@ -23,7 +23,21 @@ $textDecoration: none;
 }
 
 .frontpage p {
-  font-size: 200%;
+  font-size: 150%;
+  animation-duration: 2s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-bottom: 100%;
+    width: 100%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
 }
 
 .frontpage a {
@@ -36,6 +50,18 @@ $textDecoration: none;
   color: $hoverColor; 
 }
 
+.frontpage img{
+  clip-path: circle(45% at 50% 50%);
+  width: 45%;
+}
+
+.frontpage h1{
+  color: $fontColor;
+  font-size: 50px;
+  animation-duration: 2s;
+  animation-name: slidein;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -44,40 +70,16 @@ body {
   font-family: $fontFamily;
 }
 
-header{
-  display: flex;
-  justify-content: space-between;
+header {
   background-color: $backgroundColor;
-  align-items: center;
-  padding: 10px;
-}
-
-nav {
-  display: flex;
-  justify-content: space-around;
-  background-color: $backgroundColor;
-  padding: 10px;
-}
-
-nav a {
   color: $fontColor;
-  text-decoration: $textDecoration;
-  padding: 8px;
+  text-align: center;
+  padding: 15px;
+  margin-top: auto;
 }
 
-nav li {
-  list-style-type: none;
-}
-
-nav li a {
-  text-decoration: $textDecoration;
-  color: $fontColor;
-  font-size: 16px;
-  transition: color 0.3s ease;
-}
-
-nav li a:hover {
-  color: $hoverColor; 
+header img{
+  clip-path: circle(45% at 50% 50%);
 }
 
 main {
@@ -101,6 +103,11 @@ main {
   img {
     width: 80%;
   }
+
+  footer img{
+    width: 50%;
+  }
+  
 }
 
 header img{
@@ -120,6 +127,38 @@ footer {
   margin-top: auto;
 }
 
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 20px; /* Espacio entre elementos de la lista */
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 16px;
+}
+
+nav li a {
+  text-decoration: $textDecoration;
+  color: $fontColor;
+  font-size: 16px;
+  transition: color 0.3s ease;
+}
+
+nav li a:hover {
+  color: $hoverColor; 
+}
+
+footer img{
+  width: 25%;
+}
+
 button {
   background-color: $backgroundColor;
   color: $fontColor; 
@@ -135,12 +174,13 @@ button a {
   color: $fontColor;
 }
 
-.actors-nav{
-  font-size: 13px;
-}
-
 .actors-nav a{
   text-decoration: $textDecoration;
   color: $backgroundColor;
   padding: 10px;
+}
+
+h1{
+  animation-duration: 2s;
+  animation-name: slidein;
 }

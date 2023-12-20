@@ -15,7 +15,21 @@
 }
 
 .frontpage p {
-  font-size: 200%;
+  font-size: 150%;
+  animation-name: slidein;
+  animation-duration: 2s;
+}
+
+@keyframes slidein {
+  from {
+    width: 100%;
+    margin-bottom: 100%;
+  }
+
+  to {
+    width: 100%;
+    margin-left: 0%;
+  }
 }
 
 .frontpage a {
@@ -28,6 +42,18 @@
   color: #eebd12;
 }
 
+.frontpage img {
+  clip-path: circle(45%);
+  width: 45%;
+}
+
+.frontpage h1 {
+  color: #fff;
+  font-size: 50px;
+  animation-name: slidein;
+  animation-duration: 2s;
+}
+
 body {
   box-sizing: border-box;
   background-color: #fff;
@@ -37,39 +63,15 @@ body {
 }
 
 header {
-  background-color: #000;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px;
-  display: flex;
-}
-
-nav {
-  background-color: #000;
-  justify-content: space-around;
-  padding: 10px;
-  display: flex;
-}
-
-nav a {
   color: #fff;
-  padding: 8px;
-  text-decoration: none;
+  text-align: center;
+  background-color: #000;
+  margin-top: auto;
+  padding: 15px;
 }
 
-nav li {
-  list-style-type: none;
-}
-
-nav li a {
-  color: #fff;
-  font-size: 16px;
-  text-decoration: none;
-  transition: color .3s;
-}
-
-nav li a:hover {
-  color: #eebd12;
+header img {
+  clip-path: circle(45%);
 }
 
 main {
@@ -93,6 +95,10 @@ main {
   img {
     width: 80%;
   }
+
+  footer img {
+    width: 50%;
+  }
 }
 
 header img {
@@ -112,6 +118,38 @@ footer {
   padding: 15px;
 }
 
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  margin-right: 20px;
+  display: inline-block;
+}
+
+nav a {
+  color: #fff;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+nav li a {
+  color: #fff;
+  font-size: 16px;
+  text-decoration: none;
+  transition: color .3s;
+}
+
+nav li a:hover {
+  color: #eebd12;
+}
+
+footer img {
+  width: 25%;
+}
+
 button {
   color: #fff;
   cursor: pointer;
@@ -127,14 +165,15 @@ button a {
   text-decoration: none;
 }
 
-.actors-nav {
-  font-size: 13px;
-}
-
 .actors-nav a {
   color: #000;
   padding: 10px;
   text-decoration: none;
+}
+
+h1 {
+  animation-name: slidein;
+  animation-duration: 2s;
 }
 
 /*# sourceMappingURL=index.4a508c1d.css.map */
