@@ -196,4 +196,8 @@ rect, text {
   animation: 1s infinite change_opacity;
 }
 
+picture img {
+  width: auto;
+}
+
 /*# sourceMappingURL=index.4a508c1d.css.map */
