@@ -95,6 +95,15 @@ main {
   img {
     width: 80%;
   }
+
+  text {
+    font-size: 5vw;
+  }
+
+  rect {
+    x: 10%;
+    width: 80%;
+  }
 }
 
 header img {
