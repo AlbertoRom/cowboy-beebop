@@ -178,24 +178,24 @@ h1{
   animation-name: slide_bottom_top;
 }
 
-@keyframes increase_decrease {
+@keyframes change_opacity {
   0% {
-    transform: scale(0.5);
+    opacity: 1;
   }
   50% {
-    transform: scale(1);
+    opacity: 0.5;
   }
   100% {
-    transform: scale(0.5);
+    opacity: 1;
   }
 }
 
 rect {
-  animation: increase_decrease 2s infinite;
+  animation: change_opacity 1s infinite;
   transform-origin: center;
 }
 
 text{
-  animation: increase_decrease 2s infinite;
+  animation: change_opacity 1s infinite;
   transform-origin: center;
 }

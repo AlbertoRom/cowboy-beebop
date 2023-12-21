@@ -2215,7 +2215,7 @@
 144/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/lib/css-tools.js1700643477025576000 0
 109/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/core/lib/Parcel.js1700643477381597000 0
 115/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/css-tree/lib/syntax/node/Rule.js1700643477529606000 0
-103/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/daniella_pineda.4e046ca2.png1703189357160940903 0
+103/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/daniella_pineda.4e046ca2.png1703191469109607470 0
 125/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/utils/test/input/config/config.cjs1700643476701557000 0
 147/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/node1700643477429600000 1
 140/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/bag-shopping.svg1700813731839095000 0
@@ -2302,7 +2302,7 @@
 149/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/arrow-down-short-wide.svg1700813731823096000 0
 129/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/8.svg1700813731811097000 0
 141/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/README.md1700643477453601000 0
-102/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/mustafa_shakir.0d073cea.png1703189357068939048 0
+102/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/mustafa_shakir.0d073cea.png1703191469057606610 0
 147/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/data/patch.json1700643477437600000 0
 131/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree1700643477449601000 1
 137/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/road-lock.svg1700813732199068000 0
@@ -2453,7 +2453,7 @@
 114/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/caniuse-lite/data/regions/JP.js1700643477601610000 0
 128/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/bundler-default/lib/DefaultBundler.js1700643476717557000 0
 102/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/wrap-ansi/readme.md1700643859669193000 0
-93/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/index.4a508c1d.css1703189357068939048 0
+93/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/index.4a508c1d.css1703191469053606544 0
 113/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/resolve/test/resolver/quux/foo1700643859893196000 1
 121/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/packager-js/src/.eslintrc.json1700643476953571000 0
 125/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/packager-js/src/ESMOutputFormat.js1700643476825564000 0
@@ -2860,7 +2860,7 @@
 141/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/path-scurry/node_modules/lru-cache/dist/esm/index.d.ts.map1700643859813195000 0
 133/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@babel/code-frame/node_modules/chalk/index.js.flow1700643476649553000 0
 153/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/Number.js1700643477365596000 0
-93/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/Tank!.f06bf16d.mp31703189357236942437 0
+93/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/Tank!.f06bf16d.mp31703191469097607271 0
 132/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/index.d.ts1700643859329189000 0
 107/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/domutils/lib/querying.js1700643476757560000 0
 127/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/csso/node_modules/css-tree/cjs/utils/url.cjs1700643477365596000 0
@@ -3661,7 +3661,7 @@
 132/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/dom-serializer/node_modules/entities/lib/index.js1700643476717557000 0
 125/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/workers/src/core-worker.browser.js1700643476849565000 0
 141/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/star-of-david.svg1700813732271062000 0
-87/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/reparto.html1703189357188941469 0
+87/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/reparto.html1703191469117607601 0
 142/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/mars-stroke-up.svg1700813732111074000 0
 146/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/optimizer-svgo/node_modules/css-select/lib/compile.d.ts1700643476985573000 0
 114/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/caniuse-lite/data/regions/BR.js1700643477213587000 0
@@ -3752,7 +3752,7 @@
 140/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/face-flushed.svg1700813731991083000 0
 115/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@swc/helpers/scripts/ast_grep.js1700643477377597000 0
 122/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/core/test/InternalAsset.test.js1700643477353595000 0
-100/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/elena_satine.6ed7373f.png1703189357244942598 0
+100/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/elena_satine.6ed7373f.png1703191469137607933 0
 131/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/string-width-cjs/node_modules/emoji-regex/es20151700643859521191000 1
 105/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/lru-cache/package.json1700643476633552000 0
 134/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/cookie.svg1700813731955086000 0
@@ -3984,7 +3984,7 @@
 111/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/es-abstract/2016/TimeClip.js1700643860125199000 0
 101/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/is-callable/.nycrc1700643859481191000 0
 129/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/css-select/node_modules/domhandler/lib/node.js1700643476801562000 0
-85/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/src/styles.scss1703188354246513881 0
+85/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/src/styles.scss1703191436505049108 0
 122/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/lmdb/node_modules/node-addon-api/napi.h1700643476913569000 0
 132/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@babel/highlight/node_modules/color-name/index.js1700643476689556000 0
 142/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/ruler-vertical.svg1700813732203068000 0
@@ -4069,7 +4069,7 @@
 118/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@swc/helpers/_/_object_spread_props1700643477569608000 1
 100/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/js-yaml/README.md1700643477049577000 0
 133/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/wrap-ansi-cjs/node_modules/ansi-regex/package.json1700643859361189000 0
-106/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/fa-v4compatibility.ff721ea1.ttf1703189356992937515 0
+106/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/fa-v4compatibility.ff721ea1.ttf1703191469029606147 0
 132/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/resolve/test/resolver/incorrect_main/package.json1700643859929197000 0
 108/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/supports-color/browser.js1700643476613551000 0
 106/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/picocolors/package.json1700643476653554000 0
@@ -4148,7 +4148,7 @@
 132/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/brands/ups.svg1700813732307060000 0
 112/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/has-property-descriptors/test1700643859613193000 1
 129/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/caniuse-lite/data/features/font-size-adjust.js1700643477557607000 0
-103/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/footer-pequeño.39137033.png1703189357152940743 0
+103/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/footer-pequeño.39137033.png1703191469105607403 0
 95/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/lmdb/read.js1700643477477603000 0
 118/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/get-symbol-description/package.json1700643859689193000 0
 145/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/arrow-rotate-left.svg1700813731823096000 0
@@ -4189,7 +4189,7 @@
 111/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/define-data-property/.github1700643859781195000 1
 118/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/signal-exit/dist/mjs/browser.js.map1700643859713194000 0
 100/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/stable/index.d.ts1700643476609551000 0
-97/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/index.4a508c1d.css.map1703189357112939935 0
+97/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/index.4a508c1d.css.map1703191469073606874 0
 108/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/dotenv/lib/cli-options.js1700643476745559000 0
 110/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/is-date-object/package.json1700643859573192000 0
 117/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/caniuse-lite/data/features/hevc.js1700643477573608000 0
@@ -4312,7 +4312,7 @@
 101/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/get-port/readme.md1700643476685556000 0
 93/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/fs1700643476997574000 1
 115/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/es-abstract/2021/IteratorStep.js1700643860037198000 0
-103/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/fa-brands-400.55a67878.woff21703189357120940097 0
+103/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/fa-brands-400.55a67878.woff21703191469085607073 0
 142/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/regular/hand-pointer.svg1700813732051079000 0
 119/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@swc/helpers/esm/_sliced_to_array.js1700643477357595000 0
 131/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/scss/v4-shims.scss1700813731807097000 0
@@ -4360,7 +4360,7 @@
 110/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/es-to-primitive/test/es6.js1700643859709194000 0
 152/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/optimizer-htmlnano/node_modules/mdn-data/css/definitions.json1700643476873567000 0
 126/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/electron-to-chromium/chromium-versions.json1700643476837565000 0
-69/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop1703189356952936709 1
+69/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop1703191469013605883 1
 125/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/packager-js/src/CJSOutputFormat.js1700643476681555000 0
 116/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/signal-exit/dist/cjs/browser.d.ts1700643859797195000 0
 146/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/square-share-nodes.svg1700813732263063000 0
@@ -4513,7 +4513,7 @@
 105/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/resolve/lib/is-core.js1700643859897196000 0
 113/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/css-what/lib/commonjs/index.js1700643476653554000 0
 116/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/svgo/plugins/removeXMLProcInst.js1700643477325594000 0
-94/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/reparto.816e7b21.js1703189357452946793 0
+94/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/reparto.816e7b21.js1703191469253609849 0
 138/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/car-tunnel.svg1700813731911090000 0
 117/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/es-abstract/2016/HasOwnProperty.js1700643859993197000 0
 105/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/path-type/package.json1700643476569549000 0
@@ -4553,7 +4553,7 @@
 100/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/type-fest/license1700643476569549000 0
 129/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/wrap-ansi-cjs/node_modules/ansi-regex/index.js1700643859329189000 0
 138/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/vial-virus.svg1700813732319059000 0
-83/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/jet.html1703189357192941549 0
+83/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/jet.html1703191469117607601 0
 108/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/is-boolean-object/LICENSE1700643859405190000 0
 108/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/resolve/test/node_path.js1700643859901196000 0
 118/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/es-to-primitive/.github/FUNDING.yml1700643859793195000 0
@@ -4593,7 +4593,7 @@
 120/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/core/src/SymbolPropagation.js1700643477473602000 0
 120/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/caniuse-lite/data/features/streams.js1700643477673614000 0
 136/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/runtime-js/lib/helpers/browser/html-loader.js1700643476941571000 0
-93/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/logo.2dac97b3.jpeg1703189357072939128 0
+93/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/logo.2dac97b3.jpeg1703191469053606544 0
 112/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/react-error-overlay/README.md1700643476905569000 0
 140/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/path-scurry/node_modules/lru-cache/dist/commonjs/index.js1700643859745194000 0
 112/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/array-buffer-byte-length/test1700643859613193000 1
@@ -4620,14 +4620,14 @@
 114/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/caniuse-lite/data/regions/KE.js1700643477605610000 0
 120/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/htmlnano/lib/modules/mergeScripts.mjs1700643477341594000 0
 134/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/csso/node_modules/mdn-data/css/at-rules.schema.json1700643476809563000 0
-85/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/spike.html1703189357188941469 0
+85/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/spike.html1703191469117607601 0
 143/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/window-maximize.svg1700813732331058000 0
 113/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/safe-array-concat/package.json1700643859549192000 0
 139/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/house-crack.svg1700813732083077000 0
 127/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/optimizer-svgo/node_modules/csso/lib1700643477145583000 1
 101/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/lmdb/src/windows.c1700643477349595000 0
 135/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/brands/dyalog.svg1700813731979084000 0
-104/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/fa-regular-400.6b5e9a3a.woff21703189357116940016 0
+104/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/fa-regular-400.6b5e9a3a.woff21703191469081607007 0
 105/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/entities/lib/encode.js1700643476837565000 0
 104/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/domutils/lib/feeds.js1700643476633552000 0
 102/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/hasown/package.json1700643859401190000 0
@@ -4654,7 +4654,7 @@
 107/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/css-what/lib/es/index.js1700643476721558000 0
 115/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/resolve/test/pathfilter/deep_ref1700643859897196000 1
 159/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/node-gyp-build-optional-packages/node_modules/detect-libc/lib/detect-libc.js1700643476669555000 0
-102/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/fa-regular-400.1ca1d6f1.ttf1703189356984937354 0
+102/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/fa-regular-400.1ca1d6f1.ttf1703191469025606082 0
 133/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/wrap-ansi-cjs/node_modules/string-width/index.d.ts1700643859401190000 0
 124/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/es-abstract/2021/DeletePropertyOrThrow.js1700643859961197000 0
 107/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@babel/highlight/LICENSE1700643476565548000 0
@@ -4682,7 +4682,7 @@
 99/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@swc/helpers/cjs1700643477189585000 1
 133/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/htmlnano/lib/modules/minifyConditionalComments.mjs1700643477345595000 0
 93/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/.bin/json51700821128923762889 0
-107/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/Bad Dog No Biscuits.4b6f3a42.mp31703189357864955104 0
+107/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/Bad Dog No Biscuits.4b6f3a42.mp31703191469393612163 0
 119/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/lightningcss/node/composeVisitors.js1700643476873567000 0
 116/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/globalthis/test/implementation.js1700643859649193000 0
 138/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/helicopter.svg1700813732075077000 0
@@ -4704,7 +4704,7 @@
 108/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/sass/types/value/map.d.ts1700783078831627000 0
 122/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/es-abstract/2016/IsGenericDescriptor.js1700643860017198000 0
 108/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/chokidar/types/index.d.ts1700783078567625000 0
-74/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist1703189358152960916 1
+74/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist1703191469509614081 1
 139/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mtest.c1700643477321593000 0
 121/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/es-abstract/2020/TestIntegrityLevel.js1700643860117199000 0
 109/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/spdx-license-ids/README.md1700643859385190000 0
@@ -4795,11 +4795,11 @@
 131/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/bed.svg1700813731847094000 0
 139/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/regular/eye-slash.svg1700813731991083000 0
 107/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/packager-css/lib1700643476621552000 1
-88/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/sipnosis.html1703189357188941469 0
+88/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/sipnosis.html1703191469117607601 0
 139/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/brands/staylinked.svg1700813732275062000 0
 119/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/rimraf/dist/esm/rimraf-native.js.map1700643859893196000 0
 123/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/es-abstract/2019/StringGetOwnProperty.js1700643860109199000 0
-100/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/fa-solid-900.2bef98e0.ttf1703189357068939048 0
+100/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/fa-solid-900.2bef98e0.ttf1703191469049606478 0
 104/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/codeframe/lib1700643477209587000 1
 103/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/posthtml-parser/dist1700643476809563000 1
 115/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/es-abstract/2019/ToDateString.js1700643860129199000 0
@@ -4874,10 +4874,10 @@
 104/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/js-yaml/lib/loader.js1700643476977573000 0
 102/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/css-tree/cjs/parser1700643477349595000 1
 134/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/js/fontawesome.min.js1700813731691106000 0
-97/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/spike.f938c505.css.map1703189357112939935 0
+97/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/spike.f938c505.css.map1703191469073606874 0
 108/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/es-abstract/5/MakeDate.js1700643860045198000 0
-98/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/reparto.816e7b21.js.map1703189357460946955 0
-85/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/index.html1703189357192941549 0
+98/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/reparto.816e7b21.js.map1703191469257609915 0
+85/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/index.html1703191469117607601 0
 110/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/svgo/plugins/removeXlink.js1700643477329594000 0
 145/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/htmlnano/docs/versioned_docs/version-2.0.0/010-introduction.md1700643477237588000 0
 125/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/css-tree/lib/syntax/function/expression.js1700643477481603000 0
@@ -4903,7 +4903,7 @@
 119/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/transformer-raw/package.json1700643476697556000 0
 115/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/react-error-overlay/package.json1700643476897568000 0
 114/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/caniuse-lite/data/regions/GW.js1700643477573608000 0
-86/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/musica.html1703189357192941549 0
+86/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/musica.html1703191469117607601 0
 114/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/es-abstract/2022/ToBigUint64.js1700643860129199000 0
 105/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/is-symbol/package.json1700643859573192000 0
 150/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/optimizer-htmlnano/node_modules/mdn-data/css/selectors.json1700643477013575000 0
@@ -4964,7 +4964,7 @@
 144/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/regular/hourglass-half.svg1700813732079077000 0
 114/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/weak-lru-cache/rollup.config.js1700643476709557000 0
 140/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/string-width-cjs/node_modules/emoji-regex/LICENSE-MIT.txt1700643859385190000 0
-87/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/vicious.html1703189357192941549 0
+87/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/vicious.html1703191469117607601 0
 137/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/csso/node_modules/css-tree/lib/syntax/config/parser.js1700643477525605000 0
 136/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/brands/keybase.svg1700813732099075000 0
 120/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/function.prototype.name/test/index.js1700643859733194000 0
@@ -4984,9 +4984,9 @@
 121/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/es-abstract/2020/GetOwnPropertyKeys.js1700643859985197000 0
 116/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/define-data-property/CHANGELOG.md1700643859765194000 0
 144/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/scope1700643477421599000 1
-84/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/faye.html1703189357084939371 0
+84/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/faye.html1703191469053606544 0
 137/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/door-open.svg1700813731975085000 0
-92/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/Rush.16d39ec2.mp31703189357868955185 0
+92/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/Rush.16d39ec2.mp31703191469405612361 0
 140/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/truck-pickup.svg1700813732303060000 0
 101/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/which/CHANGELOG.md1700643859329189000 0
 118/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/dom-serializer/lib/esm/package.json1700643476793562000 0
@@ -5121,7 +5121,7 @@
 102/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/resolve/bin/resolve1700643859541192000 0
 105/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/type-fest/package.json1700643476613551000 0
 110/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/events/src/types.js1700643476809563000 0
-88/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/crítica.html1703189357084939371 0
+88/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/crítica.html1703191469053606544 0
 113/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/get-symbol-description/.github1700643859741194000 1
 101/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/object.assign/dist1700643859877196000 1
 118/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/object-inspect/package-support.json1700643859809195000 0
@@ -5328,7 +5328,7 @@
 142/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/optimizer-svgo/node_modules/csso/lib/replace/atrule1700643477109581000 1
 114/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/is-boolean-object/.editorconfig1700643859273188000 0
 106/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/to-regex-range/index.js1700643476609551000 0
-87/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/src/sipnosis.html1703189316688136967 0
+87/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/src/sipnosis.html1703191397232301087 0
 131/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/spa.svg1700813732255064000 0
 100/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/chokidar/index.js1700783078543625000 0
 146/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/optimizer-htmlnano/node_modules/mdn-data/css/units.json1700643477049577000 0
@@ -5346,7 +5346,7 @@
 142/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/arrows-up-down.svg1700813731835095000 0
 122/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/es-abstract/2018/OrdinaryHasInstance.js1700643860073198000 0
 125/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/es-abstract/2021/OrdinaryGetOwnProperty.js1700643860073198000 0
-98/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/reparto.46cf69b3.js.map1703189357332944373 0
+98/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/reparto.46cf69b3.js.map1703191469185608725 0
 103/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/color-name/README.md1700643476657554000 0
 104/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/strip-ansi/index.d.ts1700643859669193000 0
 123/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@swc/helpers/src/_is_native_function.mjs1700643477625611000 0
@@ -5457,7 +5457,7 @@
 128/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/scss/_list.scss1700813731799098000 0
 135/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/brands/linode.svg1700813732107075000 0
 108/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/core/src/utils.js1700643477505604000 0
-108/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/fa-v4compatibility.fd23dd3a.woff21703189357116940016 0
+108/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/fa-v4compatibility.fd23dd3a.woff21703191469081607007 0
 132/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/bath.svg1700813731847094000 0
 127/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/array-buffer-byte-length/.github/FUNDING.yml1700643859709194000 0
 121/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/es-abstract/2020/CreateDataProperty.js1700643859945197000 0
@@ -5526,7 +5526,7 @@
 167/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/lib/pseudo-selectors/pseudos.d.ts1700643477009575000 0
 141/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/drum-steelpan.svg1700813731979084000 0
 112/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/transformer-babel/src1700643476901568000 1
-100/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/alex_hassell.ae0417c1.png1703189357084939371 0
+100/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/alex_hassell.ae0417c1.png1703191469061606676 0
 118/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/define-data-property/index.d.ts.map1700643859753194000 0
 130/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/resolve/test/resolver/invalid_main/package.json1700643859929197000 0
 111/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/svgo/plugins/_collections.js1700643477097580000 0
@@ -5539,9 +5539,9 @@
 129/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/resolve/test/resolver/symlinked/_/node_modules1700643859849196000 1
 147/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/glob/node_modules/minimatch/dist/cjs/assert-valid-pattern.js.map1700643859833195000 0
 89/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/src/sound/Tank!.mp31700655260155808000 0
-107/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/The Real Folk Blues.26e6dd33.mp31703189358152960916 0
+107/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/The Real Folk Blues.26e6dd33.mp31703191469509614081 0
 133/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/mound.svg1700813732119074000 0
-99/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/Piano Black.b30985f7.mp31703189357260942920 0
+99/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/Piano Black.b30985f7.mp31703191469113607536 0
 108/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/resolve/test/mock_sync.js1700643859901196000 0
 136/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@swc/helpers/src/_class_private_field_destructure.mjs1700643477617611000 0
 145/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/regular/face-grin-tears.svg1700813731995083000 0
@@ -6455,7 +6455,7 @@
 107/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/utility-types/SUPPORT.md1700643476849565000 0
 123/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/type-fest/source/fixed-length-array.d.ts1700643476861566000 0
 128/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@babel/highlight/node_modules/chalk/readme.md1700643476701557000 0
-101/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/fa-brands-400.4257408a.ttf1703189357016937999 0
+101/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/fa-brands-400.4257408a.ttf1703191469033606213 0
 114/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/posthtml-render/dist/index.d.ts1700643476781561000 0
 94/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/signal-exit1700643859809195000 1
 115/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/is-shared-array-buffer/README.md1700643859697194000 0
@@ -6485,7 +6485,7 @@
 122/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/caniuse-lite/data/features/atob-btoa.js1700643477061578000 0
 122/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/es-abstract/2015/OrdinaryHasInstance.js1700643860073198000 0
 136/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/brands/wpressr.svg1700813732339057000 0
-92/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/index.0641b553.js1703189357452946793 0
+92/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/index.0641b553.js1703191469253609849 0
 136/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/caniuse-lite/data/features/intersectionobserver-v2.js1700643477597610000 0
 113/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/binary-extensions/package.json1700783078515625000 0
 105/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/is-boolean-object/test1700643859441190000 1
@@ -6496,7 +6496,7 @@
 91/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/error-ex1700643476637553000 1
 137/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/core/test/fixtures/targets-default-distdir-one1700643477541606000 1
 104/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/resolve-from/index.js1700643476609551000 0
-101/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/footer-grande.eb237eda.png1703189357064938967 0
+101/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/footer-grande.eb237eda.png1703191469041606346 0
 113/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/regexp.prototype.flags/shim.js1700643859677193000 0
 113/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/regexp.prototype.flags/auto.js1700643859505191000 0
 137/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/caniuse-lite/data/features/css-indeterminate-pseudo.js1700643477457601000 0
@@ -6559,7 +6559,7 @@
 130/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/transformer-image/lib/validateConfig.js1700643476749559000 0
 135/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@swc/helpers/_/_class_private_field_get/package.json1700643477493603000 0
 112/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/type-fest/source/entries.d.ts1700643476837565000 0
-100/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/sipnosis_img.c9f809aa.png1703189357136940420 0
+100/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/sipnosis_img.c9f809aa.png1703191469077606940 0
 121/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/type-fest/source/conditional-keys.d.ts1700643476813563000 0
 140/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/package-manager/test/fixtures/packages/a/index.js1700643476973573000 0
 117/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/type-fest/ts41/delimiter-case.d.ts1700643476829564000 0
@@ -6962,7 +6962,7 @@
 108/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/define-properties/LICENSE1700643859649193000 0
 101/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/domutils/readme.md1700643476885567000 0
 140/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/dom-serializer/node_modules/entities/lib/maps/legacy.json1700643476817563000 0
-87/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/enlaces.html1703189357192941549 0
+87/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/enlaces.html1703191469117607601 0
 137/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/explosion.svg1700813731987084000 0
 110/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/is-binary-path/package.json1700783078491625000 0
 118/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/signal-exit/dist/cjs/signals.js.map1700643859793195000 0
@@ -6973,7 +6973,7 @@
 99/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/nice-try/LICENSE1700643859361189000 0
 141/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/user-graduate.svg1700813732311059000 0
 92/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/commander1700643476817563000 1
-93/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/spike.f938c505.css1703189357068939048 0
+93/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/spike.f938c505.css1703191469053606544 0
 107/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/resolve/test/symlinks.js1700643859925196000 0
 147/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/core/test/fixtures/custom-format-infer-type/package.json1700643477521605000 0
 93/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/sass/types1700783078835627000 1
@@ -7292,7 +7292,7 @@
 128/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@swc/helpers/esm/_interop_require_wildcard.js1700643477337594000 0
 123/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/core/src/public/PluginOptions.js1700643477437600000 0
 106/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/is-core-module/index.js1700643859385190000 0
-102/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/fa-solid-900.45be5413.woff21703189357124940177 0
+102/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/fa-solid-900.45be5413.woff21703191469085607073 0
 131/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/js/v4-shims.min.js1700813731731103000 0
 88/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/clone1700643476713557000 1
 122/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/packager-css/lib/CSSPackager.js1700643476645553000 0
@@ -7307,7 +7307,7 @@
 126/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/rimraf/dist/commonjs/rimraf-native.d.ts.map1700643859893196000 0
 119/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/es-abstract/2021/IsIntegralNumber.js1700643860017198000 0
 130/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/core/src/requests/ParcelBuildRequest.js1700643477389597000 0
-96/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/index.0641b553.js.map1703189357460946955 0
+96/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/index.0641b553.js.map1703191469261609982 0
 111/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/utils/src/urlJoin.js1700643477345595000 0
 106/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/es-abstract/2018/Get.js1700643859973197000 0
 133/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@swc/helpers/src/_define_enumerable_properties.mjs1700643477621611000 0
@@ -7878,7 +7878,7 @@
 129/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/caniuse-lite/data/features/publickeypinning.js1700643477661613000 0
 128/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/es-abstract/2019/CreateDataPropertyOrThrow.js1700643859945197000 0
 115/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/packager-js/package.json1700643476957572000 0
-85/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/julia.html1703189357084939371 0
+85/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/julia.html1703191469053606544 0
 137/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/poo-storm.svg1700813732183069000 0
 131/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/fax.svg1700813731999083000 0
 116/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/caniuse-lite/data/features/es6.js1700643477549607000 0
@@ -10477,7 +10477,7 @@
 132/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/caniuse-lite/data/features/css-descendant-gtgt.js1700643477393598000 0
 134/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/caniuse-lite/data/features/css-media-interaction.js1700643477465602000 0
 131/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/transformer-babel/src/babelErrorUtils.js1700643476713557000 0
-94/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/reparto.46cf69b3.js1703189357328944292 0
+94/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/reparto.46cf69b3.js1703191469169608461 0
 124/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/caniuse-lite/data/features/css-lch-lab.js1700643477457601000 0
 106/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/es-abstract/2018/max.js1700643860045198000 0
 162/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@parcel/optimizer-svgo/node_modules/csso/lib/restructure/prepare/specificity.js1700643477141583000 0
@@ -11420,7 +11420,7 @@
 109/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@swc/helpers/src/index.mjs1700643477637612000 0
 120/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@swc/helpers/cjs/_new_arrow_check.cjs1700643477069578000 0
 128/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/css-tree/lib/syntax/node/AttributeSelector.js1700643477389597000 0
-104/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/Want It All Back.753c8f5f.mp31703189357856954943 0
+104/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/Want It All Back.753c8f5f.mp31703191469389612097 0
 141/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@fortawesome/fontawesome-free/svgs/solid/traffic-light.svg1700813732299060000 0
 116/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@swc/helpers/src/_ts_decorate.mjs1700643477633612000 0
 110/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/@swc/helpers/src/_using.mjs1700643477637612000 0
@@ -11758,7 +11758,7 @@
 110/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/lmdb/src/ordered-binary.cpp1700643477373596000 0
 95/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/sass/sass.js1700783078807627000 0
 104/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/internal-slot/LICENSE1700643859525191000 0
-96/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/john_cho.1759f561.png1703189357068939048 0
+96/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/dist/john_cho.1759f561.png1703191469053606544 0
 103/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/sass/sass.default.js1700783078807627000 0
 111/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/sass/types/logger/index.d.ts1700783078827627000 0
 129/home/alberto/Escritorio/Master/Herramientas_HTML_y_CSS/cowboy-beebop/node_modules/csso/node_modules/css-tree/lib/utils/string.js1700643477537606000 0
