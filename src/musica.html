@@ -4,14 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cowboy Beebop: Música</title>
-    <link rel="shortcut icon" href="./img/logo.png"/>
+    <link rel="shortcut icon" href="./img/logo.jpeg"/>
     <link rel="stylesheet" href="./styles.scss">
     <script type="module" src="./app.js"></script>
     <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
 </head>
 <body>
     <header>
-        <a title="Cowboy Beebop" href="./index.html"><img src="img/prueba.png" alt="Logo de Cowboy Beebop"></a>
+        <a title="Cowboy Beebop" href="./index.html"><img src="img/logo.jpeg" alt="Logo de Cowboy Beebop"></a>
         <h2>Cowboy Bebop</h2>
     </header>
     <main>
@@ -61,7 +61,10 @@
         </section>
     </main>
     <footer>
-        <img src="img/footer.png" alt="Logo de Cowboy Beebop">
+        <picture>
+            <source media="(max-width: 600px)" srcset="img/footer-pequeño.png">
+            <img srcset="img/footer-grande.png" alt="Paisaje hermoso">
+        </picture>
         <nav>
             <li><a>Sipnosis</a></li>
             <li><a href="./reparto.html">Reparto</a></li>
