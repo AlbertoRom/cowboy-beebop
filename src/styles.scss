@@ -100,7 +100,6 @@ main {
     height: 315px
   }
 
-
   text{
     font-size: 5vw;
   }
@@ -108,10 +107,6 @@ main {
   rect{
     width: 80%;
     x: 10%;
-  }
-
-  ul{
-    font-size: 13px;
   }
   
 }
@@ -133,21 +128,25 @@ footer {
   margin-top: auto;
 }
 
-ul ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+footer ul{
+  display: inline-flex;
 }
 
-ul li {
-  display: inline-block;
-  margin-right: 20px;
+ul {
+  display: flex;
+  justify-content: space-around;
+  background-color: $backgroundColor;
+  padding: 10px;
 }
 
 ul a {
-  text-decoration: none;
-  color: #fff;
-  font-size: 16px;
+  color: $fontColor;
+  text-decoration: $textDecoration;
+  padding: 8px;
+}
+
+ul li {
+  list-style-type: none;
 }
 
 ul li a {
@@ -160,7 +159,6 @@ ul li a {
 ul li a:hover {
   color: $hoverColor; 
 }
-
 
 button {
   background-color: $backgroundColor;

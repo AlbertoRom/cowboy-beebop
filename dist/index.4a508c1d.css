@@ -99,10 +99,6 @@ main {
     x: 10%;
     width: 80%;
   }
-
-  ul {
-    font-size: 13px;
-  }
 }
 
 header img {
@@ -122,21 +118,25 @@ footer {
   padding: 15px;
 }
 
-ul ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
+footer ul {
+  display: inline-flex;
 }
 
-ul li {
-  margin-right: 20px;
-  display: inline-block;
+ul {
+  background-color: #000;
+  justify-content: space-around;
+  padding: 10px;
+  display: flex;
 }
 
 ul a {
   color: #fff;
-  font-size: 16px;
+  padding: 8px;
   text-decoration: none;
+}
+
+ul li {
+  list-style-type: none;
 }
 
 ul li a {
