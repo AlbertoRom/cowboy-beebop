@@ -216,7 +216,7 @@ picture img, dpi img {
   display: flex;
 }
 
-.more-images {
+.more-images, .casting img {
   width: 80%;
 }
 

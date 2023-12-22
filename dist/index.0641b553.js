@@ -575,12 +575,289 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 }
 
 },{}],"bNKaB":[function(require,module,exports) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+var _a11YChecker = require("a11y-checker");
+var _a11YCheckerDefault = parcelHelpers.interopDefault(_a11YChecker);
+(0, _a11YCheckerDefault.default)();
 function loadCharacterPage(character) {
     current_page = window.location.href;
     character_page = character;
     window.location.href = current_page.replace("reparto.html", character_page);
 }
 
-},{}]},["iWvxK","bNKaB"], "bNKaB", "parcelRequire3c64")
+},{"a11y-checker":"6t20c","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"6t20c":[function(require,module,exports) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+var _head = require("./head");
+var _body = require("./body");
+const a11yChecker = ()=>{
+    _head.hasDocumentType();
+    _head.hasDocumentTitle();
+    _head.hasDocumentLanguage();
+    _head.hasDocumentMetaCharset();
+    _head.hasDocumentScalable();
+    _body.hasHeadingOnce();
+    _body.hasImagesAlt();
+    _body.hasLinksText();
+    _body.hasLinksHref();
+    _body.hasLinksTarget();
+    _body.hasButtonsText();
+    _body.hasSVGRole();
+    _body.hasIframeTitle();
+    _body.hasFormsLabel();
+    _body.hasForLabel();
+    _body.hasVideoTrack();
+    _body.hasAudioTrack();
+    _body.hasPositiveTabIndex();
+    _body.hasDuplicateIds();
+};
+exports.default = a11yChecker;
+
+},{"./head":"1WtjX","./body":"6Hzb5","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"1WtjX":[function(require,module,exports) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "hasDocumentType", ()=>hasDocumentType);
+parcelHelpers.export(exports, "hasDocumentLanguage", ()=>hasDocumentLanguage);
+parcelHelpers.export(exports, "hasDocumentTitle", ()=>hasDocumentTitle);
+parcelHelpers.export(exports, "hasDocumentMetaCharset", ()=>hasDocumentMetaCharset);
+parcelHelpers.export(exports, "hasDocumentScalable", ()=>hasDocumentScalable);
+var _warn = require("../utils/warn");
+var _string = require("../utils/string");
+var _dom = require("../utils/dom");
+const hasDocumentType = ()=>{
+    if (!(0, _dom.doctype)) (0, _warn.Warning)("Doctype is missing. Fix: Add <!DOCTYPE html>");
+};
+const hasDocumentTitle = ()=>{
+    if ((0, _string.isEmpty)((0, _dom.title))) (0, _warn.Warning)("Title is missing. Fix: <title>WELL DESCRIBED TITLE</title>");
+};
+const hasDocumentLanguage = ()=>{
+    const HTML = (0, _dom.getElement)("html");
+    const hasLanguageAttr = (0, _dom.hasAttribute)(HTML, "lang");
+    if (hasLanguageAttr) {
+        const getLanguageValue = (0, _dom.getAttribute)(HTML, "lang");
+        const isLanguageValueNotExist = (0, _string.isEmpty)(getLanguageValue);
+        if (isLanguageValueNotExist) (0, _warn.Warning)('Language value is missing in HTML element. Fix: Add lang="LANGUAGE VALUE" to <html>');
+    } else (0, _warn.Warning)('Language is missing in HTML element. Fix: Add lang="LANGUAGE VALUE" to <html>');
+};
+const hasDocumentMetaCharset = ()=>{
+    const META = [
+        ...(0, _dom.getElements)("meta")
+    ];
+    const hasMetaCharset = META.some((tag)=>(0, _dom.hasAttribute)(tag, "charset"));
+    if (!hasMetaCharset) (0, _warn.Warning)('Document encoding is missing. Fix: Add <meta charset="utf-8"/>');
+};
+const hasDocumentScalable = ()=>{
+    const META = [
+        ...(0, _dom.getElements)("meta")
+    ];
+    const hasMetaScalable = META.some((el)=>(0, _dom.getAttribute)(el, "user-scalable") === "no");
+    if (hasMetaScalable) (0, _warn.Warning)("Document must not use the user-scalable=no. Fix: Remove user-scalable=no from <meta name=viewport>");
+};
+
+},{"../utils/warn":"g1b5U","../utils/string":"4lDc7","../utils/dom":"cCdM5","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"g1b5U":[function(require,module,exports) {
+/* eslint-disable no-console*/ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "Warning", ()=>Warning);
+const Warning = (message)=>console.warn(message);
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"gkKU3":[function(require,module,exports) {
+exports.interopDefault = function(a) {
+    return a && a.__esModule ? a : {
+        default: a
+    };
+};
+exports.defineInteropFlag = function(a) {
+    Object.defineProperty(a, "__esModule", {
+        value: true
+    });
+};
+exports.exportAll = function(source, dest) {
+    Object.keys(source).forEach(function(key) {
+        if (key === "default" || key === "__esModule" || Object.prototype.hasOwnProperty.call(dest, key)) return;
+        Object.defineProperty(dest, key, {
+            enumerable: true,
+            get: function() {
+                return source[key];
+            }
+        });
+    });
+    return dest;
+};
+exports.export = function(dest, destName, get) {
+    Object.defineProperty(dest, destName, {
+        enumerable: true,
+        get: get
+    });
+};
+
+},{}],"4lDc7":[function(require,module,exports) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "toLower", ()=>toLower);
+parcelHelpers.export(exports, "isEmpty", ()=>isEmpty);
+parcelHelpers.export(exports, "isNull", ()=>isNull);
+const toLower = (string)=>string.toLowerCase();
+const isEmpty = (string)=>string.trim() === "";
+const isNull = (element)=>element === null;
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"cCdM5":[function(require,module,exports) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "getElement", ()=>getElement);
+parcelHelpers.export(exports, "getElements", ()=>getElements);
+parcelHelpers.export(exports, "hasAttribute", ()=>hasAttribute);
+parcelHelpers.export(exports, "getAttribute", ()=>getAttribute);
+parcelHelpers.export(exports, "doctype", ()=>doctype);
+parcelHelpers.export(exports, "title", ()=>title);
+parcelHelpers.export(exports, "hasAccessibileText", ()=>hasAccessibileText);
+parcelHelpers.export(exports, "hasTrack", ()=>hasTrack);
+const getElement = (element)=>document.querySelector(element);
+const getElements = (element)=>document.querySelectorAll(element);
+const hasAttribute = (element, attribute)=>element.hasAttribute(attribute);
+const getAttribute = (element, attribute)=>element.getAttribute(attribute);
+const doctype = document.doctype;
+const title = document.title;
+const hasAccessibileText = (element)=>hasAttribute(element, "aria-label") || hasAttribute(element, "aria-labelledby");
+const hasTrack = (track)=>track.textTracks.length === 0;
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"6Hzb5":[function(require,module,exports) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "hasHeadingOnce", ()=>hasHeadingOnce);
+parcelHelpers.export(exports, "hasImagesAlt", ()=>hasImagesAlt);
+parcelHelpers.export(exports, "hasLinksText", ()=>hasLinksText);
+parcelHelpers.export(exports, "hasLinksHref", ()=>hasLinksHref);
+parcelHelpers.export(exports, "hasLinksTarget", ()=>hasLinksTarget);
+parcelHelpers.export(exports, "hasButtonsText", ()=>hasButtonsText);
+parcelHelpers.export(exports, "hasSVGRole", ()=>hasSVGRole);
+parcelHelpers.export(exports, "hasFormsLabel", ()=>hasFormsLabel);
+parcelHelpers.export(exports, "hasIframeTitle", ()=>hasIframeTitle);
+parcelHelpers.export(exports, "hasForLabel", ()=>hasForLabel);
+parcelHelpers.export(exports, "hasVideoTrack", ()=>hasVideoTrack);
+parcelHelpers.export(exports, "hasAudioTrack", ()=>hasAudioTrack);
+parcelHelpers.export(exports, "hasPositiveTabIndex", ()=>hasPositiveTabIndex);
+parcelHelpers.export(exports, "hasDuplicateIds", ()=>hasDuplicateIds);
+var _warn = require("../utils/warn");
+var _string = require("../utils/string");
+var _dom = require("../utils/dom");
+const hasHeadingOnce = ()=>{
+    const H1 = (0, _dom.getElements)("h1");
+    const hasMultiHeading = H1.length > 1;
+    if (hasMultiHeading) (0, _warn.Warning)("Page has Multi <h1> tag. Fix: use only one <h1> in the page.");
+};
+const hasImagesAlt = ()=>{
+    const IMGS = [
+        ...(0, _dom.getElements)("img")
+    ];
+    const imagesWithoutAlt = IMGS.filter((img)=>!(0, _dom.hasAttribute)(img, "alt"));
+    const hasMissingAlt = imagesWithoutAlt.length > 0;
+    const withoutAltWarning = imagesWithoutAlt.forEach((image)=>(0, _warn.Warning)(`Image Alt is missing. Fix: Add alt="IMAGE WELL DESCRIBED" to ${image.outerHTML}`));
+    if (hasMissingAlt) withoutAltWarning;
+};
+const hasLinksText = ()=>{
+    const LINKS = [
+        ...(0, _dom.getElements)("a")
+    ];
+    const warningMessage = "Link text is missing. Fix: DESCRIBE PURPOSE OF LINK";
+    const linksWithoutText = LINKS.filter((link)=>(0, _string.isEmpty)(link.textContent) && !(0, _dom.hasAccessibileText)(link));
+    const hasMissingText = linksWithoutText.length > 0;
+    const withoutTextWarning = linksWithoutText.forEach((link)=>(0, _warn.Warning)(`${warningMessage} to ${link.outerHTML}`));
+    if (hasMissingText) withoutTextWarning;
+};
+const hasLinksHref = ()=>{
+    const LINKS = [
+        ...(0, _dom.getElements)("a")
+    ];
+    const linksWithoutHref = LINKS.filter((link)=>(!(0, _dom.hasAttribute)(link, "href") || (0, _string.isEmpty)((0, _dom.getAttribute)(link, "href"))) && !(0, _dom.hasAttribute)(link, "role"));
+    const hasMissingHref = linksWithoutHref.length > 0;
+    const withoutHrefWarning = linksWithoutHref.forEach((link)=>(0, _warn.Warning)(`Link Href is missing. Fix: Add href="LINK URL" to ${link.outerHTML}`));
+    if (hasMissingHref) withoutHrefWarning;
+};
+const hasLinksTarget = ()=>{
+    const LINKS = [
+        ...(0, _dom.getElements)("a")
+    ];
+    const warningMessage = 'Hint message is missing. Should add hint message to recognize this link will open in new tab. Fix: Add aria-describedby="ELEMENT ID"';
+    const linksWithTarget = LINKS.filter((link)=>(0, _dom.getAttribute)(link, "target") === "_blank" && !(0, _dom.hasAttribute)(link, "aria-describedby"));
+    const hasTarget = linksWithTarget.length > 0;
+    const missingTargetHint = linksWithTarget.forEach((link)=>(0, _warn.Warning)(`${warningMessage} to ${link.outerHTML}`));
+    if (hasTarget) missingTargetHint;
+};
+const hasButtonsText = ()=>{
+    const BUTTONS = [
+        ...(0, _dom.getElements)("button")
+    ];
+    const warningMessage = 'Button text or aria-label is missing. Fix: Add aria-label="VALUE" or <button>VALUE</button>';
+    const buttonsWithoutText = BUTTONS.filter((button)=>(0, _string.isEmpty)(button.textContent) && !(0, _dom.hasAccessibileText)(button));
+    const hasMissingText = buttonsWithoutText.length > 0;
+    const withoutTextWarning = buttonsWithoutText.forEach((button)=>(0, _warn.Warning)(`${warningMessage} to ${button.outerHTML}`));
+    if (hasMissingText) withoutTextWarning;
+};
+const hasForLabel = ()=>{
+    const LABELS = [
+        ...(0, _dom.getElements)("label")
+    ];
+    const isLabeld = (label)=>{
+        if (!(0, _dom.hasAttribute)(label, "for") || (0, _string.isEmpty)((0, _dom.getAttribute)(label, "for"))) (0, _warn.Warning)(`For is missing in label. Fix: Add for="INPUT ID" to ${label.outerHTML}`);
+    };
+    const missingForLabel = LABELS.forEach(isLabeld);
+    return missingForLabel;
+};
+const hasSVGRole = ()=>{
+    const SVGS = [
+        ...(0, _dom.getElements)("SVG")
+    ];
+    const hasMissingRole = SVGS.some((svg)=>(0, _dom.getAttribute)(svg, "aria-hidden") !== "true" && !(0, _dom.hasAttribute)(svg, "role") && !(0, _dom.getAttribute)(svg, "id"));
+    if (hasMissingRole) (0, _warn.Warning)('SVG Role is missing. Fix: Add role="img" or (aria-hidden="true" if you need to hide element from SR).');
+};
+const hasIframeTitle = ()=>{
+    const IFRAMES = [
+        ...(0, _dom.getElements)("iframe")
+    ];
+    const iframeWithoutTitle = IFRAMES.some((ifrmae)=>!(0, _dom.hasAttribute)(ifrmae, "title"));
+    if (iframeWithoutTitle) (0, _warn.Warning)('Title is missing in iframe. Fix: Add title="DESCRIBE CONTENT OF FRAME" to <iframe>');
+};
+const hasVideoTrack = ()=>{
+    const VIDEOS = [
+        ...(0, _dom.getElements)("video")
+    ];
+    const videoWithoutTrack = VIDEOS.some((0, _dom.hasTrack));
+    if (videoWithoutTrack) (0, _warn.Warning)("Video track is missing. Fix: Add <track> element with subtitles, captions to >video>");
+};
+const hasAudioTrack = ()=>{
+    const AUDIOS = [
+        ...(0, _dom.getElements)("audio")
+    ];
+    const audioWithoutTrack = AUDIOS.some((0, _dom.hasTrack));
+    if (audioWithoutTrack) (0, _warn.Warning)("Audio track is missing. Fix: Add <track> element with subtitles, captions to <audio>");
+};
+const hasFormsLabel = ()=>{
+    const FORMS = [
+        ...(0, _dom.getElements)("form")
+    ];
+    const formsWithoutLabels = FORMS.some((video)=>!(0, _dom.hasAccessibileText)(video));
+    if (formsWithoutLabels) (0, _warn.Warning)("Forms Label is missing. Fix: Add aria-label, aria-labelledby to <form>");
+};
+const hasPositiveTabIndex = ()=>{
+    const ALLELEMENTS = [
+        ...(0, _dom.getElements)("*")
+    ];
+    const elementsWithTabindex = ALLELEMENTS.filter((element)=>(0, _dom.getAttribute)(element, "tabindex") > 0);
+    const hasPositiveindex = elementsWithTabindex.length > 0;
+    if (hasPositiveindex) (0, _warn.Warning)('Avoid using positive integer values for tabindex. Fix: Remove/Replace tabindex=">0" ');
+};
+const hasDuplicateIds = ()=>{
+    const ALLELEMENTS = [
+        ...(0, _dom.getElements)("*")
+    ];
+    const elementsWithId = ALLELEMENTS.map((element)=>(0, _dom.getAttribute)(element, "id")).filter((el)=>!(0, _string.isNull)(el));
+    const uniqueIds = [
+        ...new Set(elementsWithId)
+    ];
+    const hasDuplicate = elementsWithId.length > uniqueIds.length;
+    if (hasDuplicate) (0, _warn.Warning)("Avoid duplicate ids, ID must be unique. Fix: Remove/Replace duplicate id");
+};
+
+},{"../utils/warn":"g1b5U","../utils/string":"4lDc7","../utils/dom":"cCdM5","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}]},["iWvxK","bNKaB"], "bNKaB", "parcelRequire3c64")
 
 //# sourceMappingURL=index.0641b553.js.map

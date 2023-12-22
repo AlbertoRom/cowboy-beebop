@@ -20,6 +20,7 @@
     "rimraf": "^5.0.5"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^6.4.2"
+    "@fortawesome/fontawesome-free": "^6.4.2",
+    "a11y-checker": "^2.2.1"
   }
 }
