@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cowboy Beebop: Vicious</title>
-    <link rel="shortcut icon" href="./img/logo.jpeg"/>
+    <link rel="shortcut icon" href="./img/logo.png"/>
     <link rel="stylesheet" href="./styles.scss">
     <script type="module" src="./app.js"></script>
     <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
@@ -12,8 +12,17 @@
 </head>
 <body>
     <header>
-        <a title="Cowboy Beebop" href="./index.html"><img src="img/logo.jpeg" alt="Logo de Cowboy Beebop"></a>
-        <h2>Cowboy Bebop</h2>
+        <div class="logo">
+            <a title="Cowboy Beebop" href="./index.html" style="display:inline-block;"><img src="img/logo.png" alt="Logo de Cowboy Beebop"></a>
+            <h2 style="display:inline-block;">&nbsp;Cowboy Bebop</h2>
+        </div>
+        <ul>
+            <li><a href="./sipnosis.html">Sipnosis</a></li>
+            <li><a href="./reparto.html">Reparto</a></li>
+            <li><a href="./musica.html">Música</a></li>
+            <li><a href="./critica.html">Crítica</a></li>
+            <li><a href="./enlaces.html">Enlaces</a></li>
+        </ul>
     </header>
     <main>
         <div class="actors-nav">
@@ -33,19 +42,21 @@
         <p>Interpretado por <b>Alex Hassell</b></p>
         <p>Vicious es un hombre misterioso y peligroso con una conexión pasada con Spike Spiegel. Ambos eran miembros de una organización criminal llamada los Dragones Rojos, pero sus caminos se separaron en circunstancias no del todo claras. Vicious es conocido por su brutalidad, astucia y habilidades letales en combate. Su presencia en la serie agrega una capa adicional de complejidad a la historia de Spike.</p>
         <p>Vicious y Spike comparten un pasado en los Dragones Rojos, pero su relación es complicada. Aunque en un momento fueron camaradas y compañeros cercanos, algo sucedió que llevó a una ruptura entre ellos. La trama de "Cowboy Bebop" explora gradualmente la historia entre Spike y Vicious, revelando eventos traumáticos y decisiones que influyeron en sus destinos.</p>
+        <img src="img/alex_hassell_2.jpg" class="more-images" alt="Imágen de Vicious 2">
+        <img src="img/alex_hassell_3.webp" class="more-images" alt="Imágen de Vicious 3">
     </main>
     <footer>
         <picture>
-            <source media="(max-width: 600px)" srcset="img/footer-pequeño.png">
-            <img srcset="img/footer-pequeño.png" alt="Paisaje hermoso">
+            <source media="(max-width: 600px)" srcset="img/footer-grande.png">
+            <img srcset="img/footer-pequeño.png" alt="See you space cowboy...">
         </picture>
-        <nav>
-            <li><a>Sipnosis</a></li>
+        <ul>
+            <li><a href="./sipnosis.html">Sipnosis</a></li>
             <li><a href="./reparto.html">Reparto</a></li>
             <li><a href="./musica.html">Música</a></li>
-            <li><a href="./crítica.html">Crítica</a></li>
+            <li><a href="./critica.html">Crítica</a></li>
             <li><a href="./enlaces.html">Enlaces</a></li>
-        </nav>
+        </ul>
         <p>&copy; Alberto Romero Cabezas</p>
     </footer>
 </body>

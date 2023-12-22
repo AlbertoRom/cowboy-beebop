@@ -31,12 +31,6 @@ $textDecoration: none;
 @keyframes slide_bottom_top {
   from {
     margin-bottom: 100%;
-    width: 100%;
-  }
-
-  to {
-    margin-left: 0%;
-    width: 100%;
   }
 }
 
@@ -71,11 +65,12 @@ body {
 }
 
 header {
+  display: flex;
+  justify-content: space-between;
   background-color: $backgroundColor;
   color: $fontColor;
-  text-align: center;
-  padding: 15px;
-  margin-top: auto;
+  align-items: center;
+  padding: 10px;
 }
 
 header img{
@@ -91,6 +86,11 @@ main {
 }
 
 @media (max-width: 600px) {
+
+  img {
+    width: 80%;
+  }
+
   header{
     flex-direction: column;
   }
@@ -100,9 +100,7 @@ main {
     height: 315px
   }
 
-  img {
-    width: 80%;
-  }
+
 
   text{
     font-size: 5vw;
@@ -111,6 +109,10 @@ main {
   rect{
     width: 80%;
     x: 10%;
+  }
+
+  ul li{
+    display: block;
   }
   
 }
@@ -132,31 +134,31 @@ footer {
   margin-top: auto;
 }
 
-nav ul {
+ul ul {
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
-nav li {
+ul li {
   display: inline-block;
   margin-right: 20px;
 }
 
-nav a {
+ul a {
   text-decoration: none;
   color: #fff;
   font-size: 16px;
 }
 
-nav li a {
+ul li a {
   text-decoration: $textDecoration;
   color: $fontColor;
   font-size: 16px;
   transition: color 0.3s ease;
 }
 
-nav li a:hover {
+ul li a:hover {
   color: $hoverColor; 
 }
 
@@ -211,4 +213,29 @@ text{
 
 picture img{
   width: auto;
+}
+
+dpi img{
+  width: auto;
+}
+
+@keyframes spin { 
+  100% { 
+      transform:rotate(360deg); 
+  } 
+}
+
+#disc {
+  clip-path: circle(33% at 50% 50%);
+  width: 50%;
+  animation:spin 2s linear infinite;
+}
+
+.logo {
+  display: flex;
+  align-content: center;
+}
+
+.more-images{
+  width: 80%;
 }

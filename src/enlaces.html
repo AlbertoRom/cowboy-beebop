@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cowboy Beebop: Enlaces</title>
-    <link rel="shortcut icon" href="./img/logo.jpeg"/>
+    <link rel="shortcut icon" href="./img/logo.png"/>
     <link rel="stylesheet" href="./styles.scss">
     <script type="module" src="./app.js"></script>
     <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
@@ -12,9 +12,19 @@
 </head>
 <body>
     <header>
-        <a title="Cowboy Beebop" href="./index.html"><img src="img/logo.jpeg" alt="Logo de Cowboy Beebop"></a>
-        <h2>Cowboy Bebop</h2>
+        <div class="logo">
+            <a title="Cowboy Beebop" href="./index.html" style="display:inline-block;"><img src="img/logo.png" alt="Logo de Cowboy Beebop"></a>
+            <h2 style="display:inline-block;">&nbsp;Cowboy Bebop</h2>
+        </div>
+        <ul>
+            <li><a href="./sipnosis.html">Sipnosis</a></li>
+            <li><a href="./reparto.html">Reparto</a></li>
+            <li><a href="./musica.html">Música</a></li>
+            <li><a href="./critica.html">Crítica</a></li>
+            <li><a href="./enlaces.html">Enlaces</a></li>
+        </ul>
     </header>
+        </picture>
     <main>
         <h1>Enlaces</h1>
         <h2>Sipnosis</h2>
@@ -39,16 +49,16 @@
     </main>
     <footer>
         <picture>
-            <source media="(max-width: 600px)" srcset="img/footer-pequeño.png">
-            <img srcset="img/footer-grande.png" alt="Paisaje hermoso">
+            <source media="(max-width: 600px)" srcset="img/footer-grande.png">
+            <img src="img/footer-pequeño.png" alt="See you space cowboy...">
         </picture>
-        <nav>
-            <li><a>Sipnosis</a></li>
+        <ul>
+            <li><a href="./sipnosis.html">Sipnosis</a></li>
             <li><a href="./reparto.html">Reparto</a></li>
             <li><a href="./musica.html">Música</a></li>
-            <li><a href="./crítica.html">Crítica</a></li>
+            <li><a href="./critica.html">Crítica</a></li>
             <li><a href="./enlaces.html">Enlaces</a></li>
-        </nav>
+        </ul>
         <p>&copy; Alberto Romero Cabezas</p>
     </footer>
 </body>

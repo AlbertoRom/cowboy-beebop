@@ -4,41 +4,54 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cowboy Beebop: Sipnosis</title>
-    <link rel="shortcut icon" href="./img/logo.jpeg"/>
+    <link rel="shortcut icon" href="./img/logo.png"/>
     <link rel="stylesheet" href="./styles.scss">
     <script type="module" src="./app.js"></script>
     <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
 </head>
 <body>
     <header>
-        <a title="Cowboy Beebop" href="./index.html"><img src="img/logo.jpeg" alt="Logo de Cowboy Beebop"></a>
-        <h2>Cowboy Bebop</h2>
+        <div class="logo">
+            <a title="Cowboy Beebop" href="./index.html" style="display:inline-block;"><img src="img/logo.png" alt="Logo de Cowboy Beebop"></a>
+            <h2 style="display:inline-block;">&nbsp;Cowboy Bebop</h2>
+        </div>
+        <ul>
+            <li><a href="./sipnosis.html">Sipnosis</a></li>
+            <li><a href="./reparto.html">Reparto</a></li>
+            <li><a href="./musica.html">Música</a></li>
+            <li><a href="./critica.html">Crítica</a></li>
+            <li><a href="./enlaces.html">Enlaces</a></li>
+        </ul>
     </header>
     <main>
         <h1>Sipnosis</h1>
-        <img src="./img/sipnosis_img.png" alt="Imágen " width="400px">
+        <img class="dpi"
+        src="img/sipnosis.png"
+        srcset="img/sipnosis.png 100w, img/sipnosis.png 5000w"
+        sizes="(max-width: 600px) 500px, (min-width: 600px) 1000px"
+        alt="Imágen"/>
         <p>Cowboy Bebop es una adaptación de la aclamada seire de anime japonés, siendo esta una de las mejor valoradas de cuantas existen. Estrenada en la plataforma 'Netflix' en 2022, cuenta la historia de un grupo de cazarrecompensas que en 2071 viaja por todo el sistema solar a la búsqueda de misiones con la que aumentar su fortuna. Spike Spiegel, Jet Black, Faye Valentine y Ein son los personajes que conforman la pandilla de estos buscavidas.</p>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/Yq2N-9EmedA?si=QSBZGkQZbzg9UGVT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <br><br> 
-        <a href="https://www.netflix.com/es/title/80207033">   
-            <svg xmlns="http://www.w3.org/2000/svg" width="80%" height="100%">
+        <svg xmlns="http://www.w3.org/2000/svg" width="80%" height="100%">
+            <a href="https://www.netflix.com/es/title/80207033">  
                 <rect width="40%" height="30%" fill="#E50914" x="30%" y="34%" rx="10" ry="10" />
-                <text x="50%" y="50%" font-size="1vw" dominant-baseline="middle" text-anchor="middle" fill="white">Ver en Netflix</text>           
-            </svg>
-        </a>
+                <text x="50%" y="50%" font-size="1vw" dominant-baseline="middle" text-anchor="middle" fill="white">Ver en Netflix</text> 
+            </a>          
+        </svg>
     </main>
     <footer>
         <picture>
-            <source media="(max-width: 600px)" srcset="img/footer-pequeño.png">
-            <img srcset="img/footer-grande.png" alt="Paisaje hermoso">
+            <source media="(max-width: 600px)" srcset="img/footer-grande.png">
+            <img srcset="img/footer-pequeño.png" alt="See you space cowboy...">
         </picture>
-        <nav>
-            <li><a>Sipnosis</a></li>
+        <ul>
+            <li><a href="./sipnosis.html">Sipnosis</a></li>
             <li><a href="./reparto.html">Reparto</a></li>
             <li><a href="./musica.html">Música</a></li>
-            <li><a href="./crítica.html">Crítica</a></li>
+            <li><a href="./critica.html">Crítica</a></li>
             <li><a href="./enlaces.html">Enlaces</a></li>
-        </nav>
+        </ul>
         <p>&copy; Alberto Romero Cabezas</p>
     </footer>
 </body>

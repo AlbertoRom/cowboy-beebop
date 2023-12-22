@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cowboy Beebop: Spike</title>
-    <link rel="shortcut icon" href="./img/logo.jpeg"/>
+    <link rel="shortcut icon" href="./img/logo.png"/>
     <link rel="stylesheet" href="./styles.scss">
     <script type="module" src="./app.js"></script>
     <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
@@ -12,8 +12,17 @@
 </head>
 <body>
     <header>
-        <a title="Cowboy Beebop" href="./index.html"><img src="img/logo.jpeg" alt="Logo de Cowboy Beebop"></a>
-        <h2>Cowboy Bebop</h2>
+        <div class="logo">
+            <a title="Cowboy Beebop" href="./index.html" style="display:inline-block;"><img src="img/logo.png" alt="Logo de Cowboy Beebop"></a>
+            <h2 style="display:inline-block;">&nbsp;Cowboy Bebop</h2>
+        </div>
+        <ul>
+            <li><a href="./sipnosis.html">Sipnosis</a></li>
+            <li><a href="./reparto.html">Reparto</a></li>
+            <li><a href="./musica.html">Música</a></li>
+            <li><a href="./critica.html">Crítica</a></li>
+            <li><a href="./enlaces.html">Enlaces</a></li>
+        </ul>
     </header>
     <main>
         <div class="actors-nav">
@@ -34,19 +43,21 @@
         <p>Spike es un cazarrecompensas relajado y despreocupado con un estilo de vida nómada. Su pasado está marcado por su membresía anterior en una organización criminal llamada los Dragones Rojos, de la cual decidió retirarse. A lo largo de la serie, se revela que su relación con los Dragones Rojos y su ex compañero, Vicious, es una parte integral de su historia.</p>
         <p>Es conocido por su actitud fresca y su habilidad excepcional en el combate. A menudo muestra un exterior tranquilo y despreocupado, pero bajo esa apariencia, es un individuo complejo con un pasado oscuro que lo persigue. Su personalidad y sus motivaciones se exploran a lo largo de la serie, revelando capas más profundas de su carácter.</p>
         <p>Es un maestro en artes marciales y es hábil con diversas armas de fuego. Su destreza en la lucha lo convierte en un cazador de recompensas formidable, y a menudo se enfrenta a situaciones peligrosas con una calma aparentemente inquebrantable.</p>
+        <img src="img/john_cho_2.webp" class="more-images" class="more-images" alt="Imágen de Spike Spiegel 2">
+        <img src="img/john_cho_3.webp" class="more-images" alt="Imágen de Spike Spiegel 3">
     </main>
     <footer>
         <picture>
-            <source media="(max-width: 600px)" srcset="img/footer-pequeño.png">
+            <source media="(max-width: 600px)" srcset="img/footer-grande.png">
             <img srcset="img/footer-grande.png" alt="See you space cowboy...">
         </picture>
-        <nav>
-            <li><a>Sipnosis</a></li>
+        <ul>
+            <li><a href="./sipnosis.html">Sipnosis</a></li>
             <li><a href="./reparto.html">Reparto</a></li>
             <li><a href="./musica.html">Música</a></li>
-            <li><a href="./crítica.html">Crítica</a></li>
+            <li><a href="./critica.html">Crítica</a></li>
             <li><a href="./enlaces.html">Enlaces</a></li>
-        </nav>
+        </ul>
         <p>&copy; Alberto Romero Cabezas</p>
     </footer>
 </body>
