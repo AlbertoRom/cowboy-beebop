@@ -12,13 +12,11 @@
   max-width: 800px;
   margin: 20px auto;
   padding: 10px;
+  animation-name: frontpage_change_opacity;
+  animation-duration: 1s;
 }
 
-.frontpage p {
-  font-size: 150%;
-}
-
-@keyframes change_opacity {
+@keyframes frontpage_change_opacity {
   0% {
     opacity: 0;
   }
@@ -30,6 +28,10 @@
   100% {
     opacity: 1;
   }
+}
+
+.frontpage p {
+  font-size: 150%;
 }
 
 .frontpage a {
@@ -114,11 +116,6 @@ main img {
   border-radius: 4px;
 }
 
-main {
-  animation-name: change_opacity;
-  animation-duration: .5s;
-}
-
 footer {
   color: #fff;
   text-align: center;
@@ -178,11 +175,6 @@ button a {
   color: #000;
   padding: 7px;
   text-decoration: none;
-}
-
-h1 {
-  animation-name: change_opacity;
-  animation-duration: .5s;
 }
 
 @keyframes change_opacity {

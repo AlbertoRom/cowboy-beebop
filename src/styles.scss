@@ -20,13 +20,11 @@ $textDecoration: none;
   padding: 10px;
   background-color: $backgroundColor;
   text-align: center;
+  animation-duration: 1s;
+  animation-name: frontpage_change_opacity;
 }
 
-.frontpage p {
-  font-size: 150%;
-}
-
-@keyframes change_opacity {
+@keyframes frontpage_change_opacity {
   0% {
     opacity: 0;
   }
@@ -36,6 +34,10 @@ $textDecoration: none;
   100% {
     opacity: 1;
   }
+}
+
+.frontpage p {
+  font-size: 150%;
 }
 
 .frontpage a {
@@ -122,11 +124,6 @@ main img{
   border-radius: $borderRadius;
 }
 
-main{
-  animation-duration: 0.5s;
-  animation-name: change_opacity;
-}
-
 footer {
   background-color: $backgroundColor;
   color: $fontColor;
@@ -186,11 +183,6 @@ button a {
   text-decoration: $textDecoration;
   color: $backgroundColor;
   padding: 7px;
-}
-
-h1{
-  animation-duration: 0.5s;
-  animation-name: change_opacity;
 }
 
 @keyframes change_opacity {
