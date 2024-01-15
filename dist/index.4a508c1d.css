@@ -42,8 +42,6 @@
 .frontpage h1 {
   color: #fff;
   font-size: 50px;
-  animation-name: slide_bottom_top;
-  animation-duration: 2s;
 }
 
 body {
