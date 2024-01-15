@@ -7,12 +7,15 @@
     <link rel="shortcut icon" href="./img/logo.webp"/>
     <link rel="stylesheet" href="./styles.scss">
     <script async type="module" src="./app.js"></script>
-    <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
+    <link rel="preload" href='https://fonts.googleapis.com/css?family=Quicksand' as="style" onload="this.onload=null;this.rel='stylesheet'"/>
+    <noscript>
+      <link href='https://fonts.googleapis.com/css?family=Quicksand' rel="stylesheet" type="text/css"/>
+    </noscript>
 </head>
 <body>
     <header>
         <div class="logo">
-            <a title="Cowboy Beebop" href="./index.html" style="display:inline-block;"><img loading="lazy" src="img/logo.webp" alt="Logo de Cowboy Beebop"></a>
+            <a title="Cowboy Beebop" href="./index.html" style="display:inline-block;"><img src="img/logo.webp" alt="Logo de Cowboy Beebop"></a>
             <h2 style="display:inline-block;">&nbsp;Cowboy Bebop</h2>
         </div>
         <ul>
@@ -26,8 +29,8 @@
     <main>
         <h1>Sipnosis</h1>
         <img loading="lazy" class="dpi"
-        src="img/sipnosis.jpeg"
-        srcset="img/sipnosis.jpeg 100w, img/sipnosis.jpeg 5000w"
+        src="img/sipnosis.webp"
+        srcset="img/sipnosis.webp 100w, img/sipnosis.webp 5000w"
         sizes="(max-width: 600px) 500px, (min-width: 600px) 1000px"
         alt="Imágen"/>
         <p>Cowboy Bebop es una adaptación de la aclamada seire de anime japonés, siendo esta una de las mejor valoradas de cuantas existen. Estrenada en la plataforma 'Netflix' en 2022, cuenta la historia de un grupo de cazarrecompensas que en 2071 viaja por todo el sistema solar a la búsqueda de misiones con la que aumentar su fortuna. Spike Spiegel, Jet Black, Faye Valentine y Ein son los personajes que conforman la pandilla de estos buscavidas.</p>
