@@ -27,8 +27,14 @@ $textDecoration: none;
 }
 
 @keyframes slide_bottom_top {
-  from {
-    margin-bottom: 25%;
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
   }
 }
 
@@ -116,6 +122,11 @@ main img{
   border-radius: $borderRadius;
 }
 
+main{
+  animation-duration: 0.5s;
+  animation-name: slide_bottom_top;
+}
+
 footer {
   background-color: $backgroundColor;
   color: $fontColor;
@@ -178,7 +189,7 @@ button a {
 }
 
 h1{
-  animation-duration: 1s;
+  animation-duration: 0.5s;
   animation-name: slide_bottom_top;
 }
 

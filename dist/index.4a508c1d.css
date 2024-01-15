@@ -19,8 +19,16 @@
 }
 
 @keyframes slide_bottom_top {
-  from {
-    margin-bottom: 25%;
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: .5;
+  }
+
+  100% {
+    opacity: 1;
   }
 }
 
@@ -106,6 +114,11 @@ main img {
   border-radius: 4px;
 }
 
+main {
+  animation-name: slide_bottom_top;
+  animation-duration: .5s;
+}
+
 footer {
   color: #fff;
   text-align: center;
@@ -169,7 +182,7 @@ button a {
 
 h1 {
   animation-name: slide_bottom_top;
-  animation-duration: 1s;
+  animation-duration: .5s;
 }
 
 @keyframes change_opacity {
