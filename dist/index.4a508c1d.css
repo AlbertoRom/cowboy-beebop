@@ -18,7 +18,7 @@
   font-size: 150%;
 }
 
-@keyframes slide_bottom_top {
+@keyframes change_opacity {
   0% {
     opacity: 0;
   }
@@ -115,7 +115,7 @@ main img {
 }
 
 main {
-  animation-name: slide_bottom_top;
+  animation-name: change_opacity;
   animation-duration: .5s;
 }
 
@@ -181,7 +181,7 @@ button a {
 }
 
 h1 {
-  animation-name: slide_bottom_top;
+  animation-name: change_opacity;
   animation-duration: .5s;
 }
 

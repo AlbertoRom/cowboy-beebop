@@ -26,7 +26,7 @@ $textDecoration: none;
   font-size: 150%;
 }
 
-@keyframes slide_bottom_top {
+@keyframes change_opacity {
   0% {
     opacity: 0;
   }
@@ -124,7 +124,7 @@ main img{
 
 main{
   animation-duration: 0.5s;
-  animation-name: slide_bottom_top;
+  animation-name: change_opacity;
 }
 
 footer {
@@ -190,7 +190,7 @@ button a {
 
 h1{
   animation-duration: 0.5s;
-  animation-name: slide_bottom_top;
+  animation-name: change_opacity;
 }
 
 @keyframes change_opacity {
