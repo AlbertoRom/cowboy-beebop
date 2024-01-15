@@ -1,3 +1,9 @@
+@font-face {
+  font-family: Quicksand;
+  src: url("https://fonts.gstatic.com/s/quicksand/v20/");
+  font-display: swap;
+}
+
 .frontpage {
   box-sizing: border-box;
   background-color: #000;
