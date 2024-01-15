@@ -15,7 +15,6 @@
 }
 
 .frontpage p {
-  font-size: 150%;
   animation-name: slide_bottom_top;
   animation-duration: 2s;
 }
