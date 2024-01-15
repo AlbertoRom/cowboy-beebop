@@ -15,8 +15,7 @@
 }
 
 .frontpage p {
-  animation-name: slide_bottom_top;
-  animation-duration: 2s;
+  font-size: 150%;
 }
 
 @keyframes slide_bottom_top {
