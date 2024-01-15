@@ -28,7 +28,7 @@ $textDecoration: none;
 
 @keyframes slide_bottom_top {
   from {
-    margin-bottom: 100%;
+    margin-bottom: 25%;
   }
 }
 
@@ -178,7 +178,7 @@ button a {
 }
 
 h1{
-  animation-duration: 2s;
+  animation-duration: 1s;
   animation-name: slide_bottom_top;
 }
 
